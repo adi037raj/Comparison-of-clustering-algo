@@ -1,0 +1,17 @@
+I have all my programs in python.
+I have used the @profile to monitor the memory usage by the algorithm. But due to @profile , its taking longer time to calculate the result.
+All the outputs in the report are the total time taken(including @profiling).
+Sometimes it may take longer time to calculate the results.
+
+For PCA:
+	To change the reduced dimension value - line 56
+
+For Apriori:
+	I am taking the input file name and minimum support(Input file name should be with the extension)
+
+For Eclat Algorithm:
+	I am taking the input file name and minimum support(Input file name should be with the extension)
+
+For FP tree:
+	I am taking the input file name and minimum support(Input file name should be with the extension)
+
